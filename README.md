@@ -83,4 +83,5 @@ This project is created and maintained by Charanjit Singh.
 * Email: charanjit.singh@outlook.in/charanjit.cheema@cjcheema.com
 * Website: https://www.cjcheema.com
 * LinkedIn: https://www.linkedin.com/in/cjcheema/
+
 Feel free to connect for any questions, suggestions, or feedback.
