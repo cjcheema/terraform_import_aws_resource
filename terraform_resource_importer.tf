@@ -1,5 +1,5 @@
 resource "aws_security_group" "existing_sg" {
-  name        = "rds-launch-wizard"
+  name        = "RDSSecurityGroup"
   description = "This security group was created manually but now we are managing it with Terraform."
   vpc_id      = var.vpcid # The VPC ID is parameterized for security reasons. In your code, either replace it here with your actual VPC ID or provide it in a *.tfvars file, as I have done.
 
